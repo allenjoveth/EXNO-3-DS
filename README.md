@@ -31,8 +31,11 @@ We use this categorical data encoding technique when the features are nominal(do
 • Yeojohnson method
 
 # CODING AND OUTPUT:
+
 NAME : ALLEN JOVETH P 
+
 REG NO : 212223240007
+
 ![1](https://github.com/user-attachments/assets/67e4c058-75e6-4636-b412-52b757e97853)
 ![2](https://github.com/user-attachments/assets/4c4eead2-28ce-4a32-acc4-d84802dab03f)
 ![3](https://github.com/user-attachments/assets/4a2e9685-f53d-48f8-817c-d8ffb652603d)
